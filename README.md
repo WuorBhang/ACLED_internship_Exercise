@@ -54,6 +54,6 @@ The findings highlight that:
 
 ---
 
-**Author:** Wuor Bang Gatwech  
+**Author:** Wuor Bang
 **GitHub:** [@WuorBhang](https://github.com/WuorBhang)  
 **Data Source:** [ACLED – Armed Conflict Location & Event Data Project](https://acleddata.com)
