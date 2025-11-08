@@ -21,8 +21,8 @@ The findings highlight that:
 ## ⚙️ Methodology Summary
 1. **Data Loading & Cleaning:** Imported the ACLED dataset and filtered it for events labeled as *Protests*.  
 2. **Data Analysis:** Aggregated data by region, country, and protest sub-type.  
-3. **Visualization:** Created clear and labeled charts illustrating protest distribution and protest types.  
-4. **Memo Summary:** Generated a concise one-page report describing the methodology, insights, and implications.
+3. **Visualization:** A clear and labeled charts illustrating protest distribution and protest types.  
+4. **Memo Summary:** one-page report describing the methodology, insights, and implications.
 
 ---
 
@@ -30,8 +30,8 @@ The findings highlight that:
 | File | Description |
 |------|--------------|
 | `acled_intern_analysis.ipynb` | Jupyter Notebook containing data analysis, visualization, and summary. |
-| `memo_protest_analysis.pdf` *(optional)* | A one-page memo summarizing findings (if generated). |
-| `data/` *(optional)* | Directory where the ACLED dataset should be placed (not included in repo). |
+| `ACLED_Protest_Analysis_Memo.pdf` *(optional)* | A one-page memo summarizing findings (if generated). |
+| `data/` *(optional)* | Directory where the ACLED dataset are placed (data/ACLED_events_01-01-2025-24-10-2025.csv). |
 
 ---
 
@@ -55,5 +55,7 @@ The findings highlight that:
 ---
 
 **Author:** Wuor Bang
-**GitHub:** [@WuorBhang](https://github.com/WuorBhang)  
+
+**GitHub:** [@WuorBhang](https://github.com/WuorBhang)
+
 **Data Source:** [ACLED – Armed Conflict Location & Event Data Project](https://acleddata.com)
